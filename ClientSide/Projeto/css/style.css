@@ -1,0 +1,30 @@
+#todoConteudo{
+  height: 100%;
+  width: 80%;
+  margin: 0 auto;
+}
+
+header{
+  margin: 0 auto;
+  padding: 25px;
+  background-color: black;
+  color: white;
+  margin-bottom: 25px;
+}
+
+#box-cadastrar{
+  margin: 0 auto;
+}
+
+#box-sobrevivente{
+  margin: 0 auto;
+}
+
+#box-cadastrar h3{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#divBtnTrocarItens{
+	text-align : center;
+}
